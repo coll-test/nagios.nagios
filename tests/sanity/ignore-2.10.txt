@@ -1,0 +1,4 @@
+plugins/modules/nagios.py validate-modules:doc-default-does-not-match-spec
+plugins/modules/nagios.py validate-modules:doc-missing-type
+plugins/modules/nagios.py validate-modules:doc-required-mismatch
+plugins/modules/nagios.py validate-modules:no-default-for-required-parameter
